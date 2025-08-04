@@ -1,0 +1,16 @@
+# YouTube Downloader Requirements
+# Note: yt-dlp is installed via system package manager (apt install yt-dlp)
+
+# Python standard libraries used:
+# - tkinter (usually included with Python)
+# - subprocess
+# - threading  
+# - json
+# - pathlib
+# - argparse
+# - os
+# - sys
+
+# No additional pip packages required when using system yt-dlp installation
+# If you prefer to use pip instead of system packages:
+# yt-dlp>=2024.1.1
